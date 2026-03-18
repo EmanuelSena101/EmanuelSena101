@@ -20,28 +20,28 @@ Special interest in modern data architectures, distributed processing, and build
 
 **Big Data & Processing**
 
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff)](#)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff)](#)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=fff)](#)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-[![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=fff)](#)
-[![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-003366?logo=apache&logoColor=fff)](#)
+[![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=fff)](#)
+[![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-003366?style=for-the-badge&logo=apache&logoColor=fff)](#)
 
 **Data Orchestration**
 
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#)
-[![Prefect](https://img.shields.io/badge/Prefect-024DFD?logo=prefect&logoColor=fff)](#)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=fff)](#)
+[![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=fff)](#)
 
 **Data Transformation & Modeling**
 
-[![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff)](#)
-[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=fff)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?style=for-the-badge&logo=etl-logo&logoColor=fff)](#)
 
 **Data Storage & Warehousing**
 
 ![BigQuery](https://img.shields.io/badge/bigquery-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff)](#)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=fff)](#)
+[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=fff)](#)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -57,12 +57,12 @@ Special interest in modern data architectures, distributed processing, and build
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)](#)
 
 **Automation & Integration**
 
 ![n8n](https://img.shields.io/badge/n8n-FF5757?style=for-the-badge&logo=n8n&logoColor=white)
-[![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black)](#)
+[![MLflow](https://img.shields.io/badge/MLflow-F4AA41?style=for-the-badge&logo=MLflow&logoColor=black)](#)
 
 ---
 
